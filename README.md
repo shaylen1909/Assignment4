@@ -25,4 +25,8 @@ Write a MIPS program (greyscale.asm) that will read in a colour PPM P3 image and
 - Create an empty .ppm file to output the output greyscale image.
 - Change the path of the input and output files in the data section of the code to suit where your .ppm files are saved and where you have created your empty output file.
 - You can now run the code using the run function on QTSpim.
-- - if code does not work maybe try crlf and cr images but primarily use lf.
+- if code does not work maybe try crlf and cr images but primarily use lf.
+
+
+
+
